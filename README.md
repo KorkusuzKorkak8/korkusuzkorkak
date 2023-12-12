@@ -25,7 +25,7 @@
 
 <br />
 
-Hi, I'm [Esat Turan Elik](), a Full Stack Developer 🚀 from Turkey, currently
+Hi, I'm [KorkusuzKorkak](), a Full Stack Developer 🚀 from Turkey, currently
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
